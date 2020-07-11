@@ -1,0 +1,5 @@
+-
+  scroll: true
+  by: 'text'
+  locator: '添加成员'
+  action: 'click'

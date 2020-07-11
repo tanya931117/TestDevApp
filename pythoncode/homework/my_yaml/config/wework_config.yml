@@ -1,0 +1,11 @@
+-
+  platformName: 'Android'
+  platformVersion: '6.0'
+  deviceName: '127.0.0.1:7555'
+  dontStopAppOnReset: 'false'
+  skipDeviceInitialization: 'true'
+  noReset: 'true'
+  unicodeKeyBoard: 'true'
+  resetKeyBoard: 'true'
+-
+  address: 'http://localhost:4723/wd/hub'
